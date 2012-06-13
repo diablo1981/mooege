@@ -1,7 +1,7 @@
 ###Current Status:
 * You can Login and create characters.
 * Client requires patching.
-* YOU **CANNOT** START A GAME.
+* Currently (version 9991) the game starts, but still playable .. because they only charge a few meters of the playing area.
 
 ***
 
